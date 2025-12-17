@@ -1,2 +1,3 @@
 # SCO-Master
-SCO-Master Company website
+Frontend-only interface for managing SCO records with a clean, responsive UI.
+
